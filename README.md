@@ -8,7 +8,7 @@ A collection of agent orchestration systems, prompts, and tools for building str
 
 AI Toolkit is an open-source repository of reusable components for agent-based AI workflows. The goal is to provide well-structured, composable building blocks that handle common patterns: multi-stage pipelines, stateless sub-agents, context management, and user-facing skill interfaces.
 
-Components are organized around `.github/agents/` and `.github/prompts/` — conventions supported natively by Claude Code.
+Components are organized around `.github/agents/` and `.github/prompts/`.
 
 ---
 
