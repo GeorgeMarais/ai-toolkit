@@ -1,5 +1,5 @@
 ---
-name: doc
+name: Documentation
 description: >
   Orchestrator for the doc co-authoring system. Routes /doc start, /doc draft, and
   /doc review to isolated sub-agents, keeping this session context lean. Invoke when
